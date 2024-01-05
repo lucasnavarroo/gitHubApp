@@ -1,0 +1,14 @@
+<resources>
+    <string name="users_title">Usuários GitHub</string>
+    <string name="error_message">Erro inesperado, tente novamente</string>
+    <string name="back">voltar</string>
+    <string name="search">buscar usuário</string>
+    <string name="nothing_found">Nenhum usuário encontrado</string>
+    <string name="about_me">Sobre mim</string>
+    <string name="name">Nome</string>
+    <string name="company">Empresa</string>
+    <string name="location">Local</string>
+    <string name="email">Email</string>
+    <string name="public_repos">Repositórios públicos</string>
+    <string name="my_repos">Meus repositórios</string>
+</resources>
